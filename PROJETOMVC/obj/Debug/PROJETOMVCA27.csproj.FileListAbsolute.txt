@@ -1,0 +1,5 @@
+C:\Users\otavi\Desktop\PROJETOMVC2020-master\obj\Debug\PROJETOMVCA27.csprojAssemblyReference.cache
+C:\Users\otavi\Desktop\PROJETOMVC2020-master\obj\Debug\PROJETOMVCA27.FrmCliente.resources
+C:\Users\otavi\Desktop\PROJETOMVC2020-master\obj\Debug\PROJETOMVCA27.Properties.Resources.resources
+C:\Users\otavi\Desktop\PROJETOMVC2020-master\obj\Debug\PROJETOMVCA27.csproj.GenerateResource.cache
+C:\Users\otavi\Desktop\PROJETOMVC2020-master\obj\Debug\PROJETOMVCA27.csproj.CoreCompileInputs.cache
